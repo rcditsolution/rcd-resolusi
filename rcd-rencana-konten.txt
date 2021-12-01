@@ -4,6 +4,7 @@ RENCANA KONTEN RCD
   * Windows 10
   * Windows 11
     ^Perubahan dari windows sebelumnya
+    ^Penjelasan layout
 - Struktur Data Dasar
 - Tutorial Instalasi Software
   ^Install Ms. Office
