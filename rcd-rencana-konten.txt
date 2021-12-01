@@ -4,8 +4,10 @@ RENCANA KONTEN RCD
   * Windows 10
   * Windows 11
     ^kelemahan windows 11
-    ^penjelasan layout
+    ^Penjelasan layout
+- Struktur Data Dasar
 - Tutorial Instalasi Software
   ^Install Ms. Office
 - Tutorial Trobleshooting Jaringan
 - Tutorial MikroTik
+- Tutorial Crimping kabel UTP
