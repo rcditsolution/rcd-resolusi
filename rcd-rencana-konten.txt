@@ -3,7 +3,9 @@ RENCANA KONTEN RCD
 - Tutorial Instalasi Windows
   * Windows 10
   * Windows 11
-- Struktur Data Dasar
+    ^kelemahan windows 11
+    ^penjelasan layout
 - Tutorial Instalasi Software
+  ^Install Ms. Office
 - Tutorial Trobleshooting Jaringan
 - Tutorial MikroTik
